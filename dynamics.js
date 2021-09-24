@@ -1,5 +1,6 @@
 
 jQuery(document).ready(function($){
+  console.log('aaa');
   // Dynamic Content
   const dynamicContent = {
       header: document.querySelector('#heading'),
